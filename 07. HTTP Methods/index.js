@@ -18,7 +18,7 @@ const myServer = http.createServer((req, res) => {
                     res.end(`HI, ${username}`);
                     break;
                 case '/contact':
-                    res.end("ranitmanik.dev@gmail.com");
+                    res.end("shridhar");
                     break;
                 case '/signup':
                     if (req.method === "GET") return res.end("this is a signup form");
