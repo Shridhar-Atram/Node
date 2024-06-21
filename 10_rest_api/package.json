@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodeman": "^1.1.2"
+  },
+  "name": "10_rest_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodeman index.js"
+  },
+  "author": "Shridhar",
+  "license": "ISC",
+  "description": ""
+}
